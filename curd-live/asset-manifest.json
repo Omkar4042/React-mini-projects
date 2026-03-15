@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-mini-projects/curd-live/static/css/main.764647c9.css",
+    "main.js": "/React-mini-projects/curd-live/static/js/main.6d8c6f73.js",
+    "static/js/453.c6d8cdee.chunk.js": "/React-mini-projects/curd-live/static/js/453.c6d8cdee.chunk.js",
+    "index.html": "/React-mini-projects/curd-live/index.html",
+    "main.764647c9.css.map": "/React-mini-projects/curd-live/static/css/main.764647c9.css.map",
+    "main.6d8c6f73.js.map": "/React-mini-projects/curd-live/static/js/main.6d8c6f73.js.map",
+    "453.c6d8cdee.chunk.js.map": "/React-mini-projects/curd-live/static/js/453.c6d8cdee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764647c9.css",
+    "static/js/main.6d8c6f73.js"
+  ]
+}
